@@ -1,0 +1,19 @@
+{
+  "name": "curso-closures-scope",
+  "version": "1.0.0",
+  "description": "Curso de closures y scope",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juan2579/Curso-Closures-Scope.git"
+  },
+  "author": "Juanito2579",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juan2579/Curso-Closures-Scope/issues"
+  },
+  "homepage": "https://github.com/Juan2579/Curso-Closures-Scope#readme"
+}
